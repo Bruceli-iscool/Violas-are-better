@@ -1,2 +1,2 @@
 # Violas-are-better
- For a school argument
+ For an argument
